@@ -1,4 +1,4 @@
-# prompting-engineering
+# prompt-engineering
 
 ## 📋 Full List of Prompting Strategies
 
